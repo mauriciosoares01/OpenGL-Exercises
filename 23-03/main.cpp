@@ -2,7 +2,7 @@
 *	Exercícios OpenGL
 *	Autor: Maurício Silva Soares
 *	
-*	AS JANELAS ABRE UMA EM CIMA DA OUTRA !
+*	AS JANELAS ABREM UMA EM CIMA DA OUTRA !
 */
 
 #include <stdlib.h>
